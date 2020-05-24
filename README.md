@@ -9,3 +9,4 @@ Features:
 - Clean and harmonic blend mixer
 - harmonics adjustable from 7 undertones to 7 overtones 
 
+It is based on our Essential Shield.
