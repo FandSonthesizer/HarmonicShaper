@@ -7,5 +7,5 @@ Features:
 - 4 harmonic waves can be generated
 - selectable waveform: SIN, TRI, RMP, SAW and Square
 - Clean and harmonic blend mixer
-- harmonics adjustable form 7 undertones to 7 overtones 
+- harmonics adjustable from 7 undertones to 7 overtones 
 
